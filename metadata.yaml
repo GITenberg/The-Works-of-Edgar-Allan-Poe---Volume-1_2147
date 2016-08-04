@@ -1,0 +1,84 @@
+_repo: The-Works-of-Edgar-Allan-Poe---Volume-1_2147
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Willis, Nathaniel Parker
+    aliases:
+    - Willis, N. P. (Nathaniel Parker)
+    - Willis, N. Parker (Nathaniel Parker)
+    birthdate: 1806
+    deathdate: 1867
+    gutenberg_agent_id: '6238'
+    url: http://www.gutenberg.org/2009/agents/6238
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Parker_Willis
+  - agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: "\"The Mystery of Marie Rogêt\", often subtitled A Sequel to \"The Murders\
+  \ in the Rue Morgue\", is a short story by Edgar Allan Poe written in 1842. This\
+  \ is the first murder mystery based on the details of a real crime. It first appeared\
+  \ in Snowden's Ladies' Companion in three installments, November and December 1842\
+  \ and February 1843.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Detective Fiction
+- Horror
+- Mystery Fiction
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2147'
+  wikidata: Q1167993
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Poe, Edgar Allan, 1809-1849'
+- !lcsh 'Horror tales, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Edgar Allan Poe, an appreciation -- Life of Poe, by James Russell
+  Lowell -- Death of Poe, by N. P. Willis -- The unparalleled adventures of one Hans
+  Pfaal -- The gold-bug -- Four beasts in one -- The murders in the Rue Morgue --
+  The mystery of Marie Rogêt -- The balloon hoax -- MS. found in a bottle -- The oval
+  portrait.
+title: The Works of Edgar Allan Poe — Volume 1
+url: http://www.gutenberg.org/ebooks/2147
+wikipedia:
+- https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AD%E3%82%B8%E3%82%A7%E3%81%AE%E8%AC%8E
+- https://fr.wikipedia.org/wiki/Le_Myst%C3%A8re_de_Marie_Roget
+- https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%B2_%D9%85%D8%A7%D8%B1%D9%8A_%D8%B1%D9%88%D8%AC%D9%8A%D9%87
+- https://ro.wikipedia.org/wiki/Misterul_lui_Marie_Rog%C3%AAt
+- https://id.wikipedia.org/wiki/The_Mystery_of_Marie_Rog%C3%AAt
+- https://pl.wikipedia.org/wiki/Tajemnica_Marii_Roget
+- https://cs.wikipedia.org/wiki/Z%C3%A1hada_Marie_Rog%C3%AAtov%C3%A9
+- https://tr.wikipedia.org/wiki/Marie_Rog%C3%AAt%27nin_S%C4%B1rr%C4%B1
+- https://de.wikipedia.org/wiki/Das_Geheimnis_der_Marie_Rog%C3%AAt
+- https://es.wikipedia.org/wiki/El_misterio_de_Marie_Rog%C3%AAt
+- https://en.wikisource.org/wiki/Tales_(Poe)/The_Mystery_of_Marie_Roget
+- https://en.wikipedia.org/wiki/The_Mystery_of_Marie_Rog%C3%AAt
+- https://it.wikipedia.org/wiki/Il_mistero_di_Marie_Roget
+- https://pt.wikipedia.org/wiki/O_Mist%C3%A9rio_de_Marie_Rog%C3%AAt
+- https://zh.wikipedia.org/wiki/%E7%91%AA%E9%BA%97%C2%B7%E7%BE%85%E5%82%91%E5%A5%87%E6%A1%88
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8_%D0%A0%D0%BE%D0%B6%D0%B5
+- https://ca.wikipedia.org/wiki/El_misteri_de_Marie_Rog%C3%AAt
+- https://gl.wikipedia.org/wiki/O_asasinato_de_Marie_Roget
+- https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A6%AC_%EB%A1%9C%EC%A0%9C%EC%9D%98_%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC
+- https://fr.wikisource.org/wiki/Le_Myst%C3%A8re_de_Marie_Roget
