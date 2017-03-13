@@ -1,5 +1,5 @@
 _repo: The-Works-of-Edgar-Allan-Poe---Volume-1_2147
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Willis, Nathaniel Parker
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '456'
     url: http://www.gutenberg.org/2009/agents/456
     wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -34,6 +37,8 @@ description: "\"The Mystery of Marie Rogêt\", often subtitled A Sequel to \"The
   \ is the first murder mystery based on the details of a real crime. It first appeared\
   \ in Snowden's Ladies' Companion in three installments, November and December 1842\
   \ and February 1843.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2147#The-Works-of-Edgar-Allan-Poe---Volume-1
 gutenberg_bookshelf:
 - Detective Fiction
 - Horror
