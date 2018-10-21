@@ -12,7 +12,7 @@ Title: The Works of Edgar Allan Poe
 Author: Edgar Allan Poe
 
 Release Date: May 19, 2008 [EBook #2147]
-[Last updated: June 17, 2012]
+[Last updated: September 17, 2014]
 
 Language: English
 
@@ -23,7 +23,7 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by David Widger
+Produced by David Widger and Carlo Traverso
 
 
 
@@ -50,12 +50,12 @@ Contents:
      Edgar Allan Poe, An Appreciation
      Life of Poe, by James Russell Lowell
      Death of Poe, by N. P. Willis
-     The Unparalleled Adventures of One Hans Pfall
-     The Gold Bug
+     The Unparalleled Adventures of One Hans Pfaall
+     The Gold-Bug
      Four Beasts in One
      The Murders in the Rue Morgue
      The Mystery of Marie Rogêt
-     The Balloon Hoax
+     The Balloon-Hoax
      MS. Found in a Bottle
      The Oval Portrait
 
@@ -89,12 +89,12 @@ verse, from the "Haunted Palace":
     The wit and wisdom of their king.
 
 
-Born in poverty at Boston, January 19 1809, dying under painful
+Born in poverty at Boston, January 19, 1809, dying under painful
 circumstances at Baltimore, October 7, 1849, his whole literary career
 of scarcely fifteen years a pitiful struggle for mere subsistence, his
 memory malignantly misrepresented by his earliest biographer, Griswold,
 how completely has truth at last routed falsehood and how magnificently
-has Poe come into his own, For "The Raven," first published in 1845,
+has Poe come into his own. For "The Raven," first published in 1845,
 and, within a few months, read, recited and parodied wherever the
 English language was spoken, the half-starved poet received $10! Less
 than a year later his brother poet, N. P. Willis, issued this touching
@@ -115,7 +115,7 @@ And this was the tribute paid by the American public to the master who
 had given to it such tales of conjuring charm, of witchery and mystery
 as "The Fall of the House of Usher" and "Ligeia"; such fascinating
 hoaxes as "The Unparalleled Adventure of Hans Pfaall," "MSS. Found in a
-Bottle," "A Descent Into a Maelstrom" and "The Balloon Hoax"; such tales
+Bottle," "A Descent Into a Maelstrom" and "The Balloon-Hoax"; such tales
 of conscience as "William Wilson," "The Black Cat" and "The Tell-tale
 Heart," wherein the retributions of remorse are portrayed with an awful
 fidelity; such tales of natural beauty as "The Island of the Fay" and
@@ -274,8 +274,8 @@ of his life, tell of his sorrow at the loss of his child-wife:
 
 Poe was connected at various times and in various capacities with the
 "Southern Literary Messenger" in Richmond, Va.; "Graham's Magazine" and
-the "Gentleman's Magazine" in Philadelphia.; the "Evening Mirror," the
-"Broadway journal," and "Godey's Lady's Book" in New York. Everywhere
+the "Gentleman's Magazine" in Philadelphia; the "Evening Mirror," the
+"Broadway Journal," and "Godey's Lady's Book" in New York. Everywhere
 Poe's life was one of unremitting toil. No tales and poems were ever
 produced at a greater cost of brain and spirit.
 
@@ -296,7 +296,7 @@ Actors' Monument to Poe, May 4, 1885, in New York:
      Passion and mystery and the dread unknown;
      Pure as the mountains of perpetual snow,
      Cold as the icy winds that round them moan,
-     Dark as the eaves wherein earth's thunders groan,
+     Dark as the caves wherein earth's thunders groan,
      Wild as the tempests of the upper sky,
      Sweet as the faint, far-off celestial tone of angel
          whispers, fluttering from on high,
@@ -327,7 +327,7 @@ By James Russell Lowell
 
 
 THE situation of American literature is anomalous. It has no centre, or,
-if it have, it is like that of the sphere of Hermes. It is, divided
+if it have, it is like that of the sphere of Hermes. It is divided
 into many systems, each revolving round its several suns, and often
 presenting to the rest only the faint glimmer of a milk-and-water way.
 Our capital city, unlike London or Paris, is not a great central heart
@@ -506,7 +506,7 @@ of winning love and veneration. Enthusiasm cannot cling to what itself
 is unenthusiastic, nor will he ever have disciples who has not himself
 impulsive zeal enough to be a disciple. Great wits are allied to madness
 only inasmuch as they are possessed and carried away by their demon,
-While talent keeps him, as Paracelsus did, securely prisoned in the
+while talent keeps him, as Paracelsus did, securely prisoned in the
 pommel of his sword. To the eye of genius, the veil of the spiritual
 world is ever rent asunder that it may perceive the ministers of good
 and evil who throng continually around it. No man of mere talent ever
@@ -516,7 +516,7 @@ When we say that Mr. Poe had genius, we do not mean to say that he has
 produced evidence of the highest. But to say that he possesses it at
 all is to say that he needs only zeal, industry, and a reverence for the
 trust reposed in him, to achieve the proudest triumphs and the greenest
-laurels. If we may believe the Longinuses; and Aristotles of our
+laurels. If we may believe the Longinuses and Aristotles of our
 newspapers, we have quite too many geniuses of the loftiest order to
 render a place among them at all desirable, whether for its hardness
 of attainment or its seclusion. The highest peak of our Parnassus is,
@@ -954,7 +954,7 @@ of her life, we will joyfully place it in her hands.
 
 
 
-THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL (*1)
+THE UNPARALLELED ADVENTURES OF ONE HANS PFAALL (*1)
 
 BY late accounts from Rotterdam, that city seems to be in a high state
 of philosophical excitement. Indeed, phenomena have there occurred of
@@ -2746,7 +2746,7 @@ at the centre. The weight is 3 tons. The focal length is 50 feet.
 I have lately read a singular and somewhat ingenious little book, whose
 title-page runs thus: "L'Homme dans la lvne ou le Voyage Chimerique
 fait au Monde de la Lvne, nouellement decouvert par Dominique Gonzales,
-Aduanturier Espagnol, autremét dit le Courier volant. Mis en notre
+Aduanturier Espagnol, autremet dit le Courier volant. Mis en notre
 langve par J. B. D. A. Paris, chez Francois Piot, pres la Fontaine de
 Saint Benoist. Et chez J. Goignard, au premier pilier de la grand'salle
 du Palais, proche les Consultations, MDCXLVII." Pp. 76.
@@ -2754,7 +2754,7 @@ du Palais, proche les Consultations, MDCXLVII." Pp. 76.
 The writer professes to have translated his work from the English of one
 Mr. D'Avisson (Davidson?) although there is a terrible ambiguity in the
 statement. "J' en ai eu," says he "l'original de Monsieur D'Avisson,
-medecin des mieux versez qui soient aujourd'huy dans la cònoissance des
+medecin des mieux versez qui soient aujourd'huy dans la cõnoissance des
 Belles Lettres, et sur tout de la Philosophic Naturelle. Je lui ai cette
 obligation entre les autres, de m' auoir non seulement mis en main
 cc Livre en anglois, mais encore le Manuscrit du Sieur Thomas D'Anan,
@@ -3983,11 +3983,11 @@ it now." Here Legrand, having re-heated the parchment, submitted it to
 my inspection. The following characters were rudely traced, in a red
 tint, between the death's-head and the goat:
 
-  "53‡‡†305))6*;4826)4‡)4‡);806*;48†8¶60))85;1‡);:‡
-  *8†83(88)5*†;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*
-  2(5*--4)8¶8*;4069285);)6†8)4‡‡;1(‡9;48081;8:8‡1;4
-  8†85;4)485†528806*81(‡9;48;(88;4(‡?34;48)4‡;161;:
-  188;‡?;"
+  "53##|305))6*;4826)4#)4#);806*;48|8¶60))85;1#);:#
+  *8|83(88)5*|;46(;88*96*?;8)*#(;485);5*|2:*#(;4956*
+  2(5*--4)8¶8*;4069285);)6|8)4##;1(#9;48081;8:8#1;4
+  8|85;4)485|528806*81(#9;48;(88;4(#?34;48)4#;161;:
+  188;#?;"
 
 "But," said I, returning him the slip, "I am as much in the dark as
 ever. Were all the jewels of Golconda awaiting me upon my solution of
@@ -4039,11 +4039,11 @@ Of the character 8 there are 33.
 
                           ;        "     26.
                           4        "     19.
-                        ‡ )        "     16.
+                        # )        "     16.
                           *        "     13.
                           5        "     12.
                           6        "     11.
-                        † 1        "      8.
+                        | 1        "      8.
                           0        "      6.
                         9 2        "      5.
                         : 3        "      4.
@@ -4106,11 +4106,11 @@ juxtaposition.
 the combination;48, and employ it by way of _termination_ to what
 immediately precedes. We have thus this arrangement:
 
-the tree;4(‡?34 the,
+the tree;4(#?34 the,
 
 or, substituting the natural letters, where known, it reads thus:
 
-the tree thr‡?3h the.
+the tree thr#?3h the.
 
 "Now, if, in place of the unknown characters, we leave blank spaces, or
 substitute dots, we read thus:
@@ -4119,7 +4119,7 @@ the tree thr...h the,
 
 when the word '_through_' makes itself evident at once. But this
 discovery gives us three new letters, _o_, _u_ and _g_, represented by
-‡? and 3.
+#? and 3.
 
 "Looking now, narrowly, through the cipher for combinations of known
 characters, we find, not very far from the beginning, this arrangement,
@@ -4127,7 +4127,7 @@ characters, we find, not very far from the beginning, this arrangement,
 83(88, or egree,
 
 which, plainly, is the conclusion of the word 'degree,' and gives us
-another letter, _d_, represented by †.
+another letter, _d_, represented by |.
 
 "Four letters beyond the word 'degree,' we perceive the combination
 
@@ -4141,7 +4141,7 @@ _i_ and _n_, represented by 6 and *.
 "Referring, now, to the beginning of the cryptograph, we find the
 combination,
 
-53‡‡†.
+53##|.
 
 "Translating, as before, we obtain
 
@@ -4154,13 +4154,13 @@ words are 'A good.'
 tabular form, to avoid confusion. It will stand thus:
 
                 5 represents      a
-                †       "         d
+                |       "         d
                 8       "         e
                 3       "         g
                 4       "         h
                 6       "         i
                 *       "         n
-                ‡       "         o
+                #       "         o
                 (       "         r
                 ;       "         t
 
@@ -4918,7 +4918,7 @@ large basket of apples, had nearly thrown me down, by accident, as we
 passed from the Rue C ---- into the thoroughfare where we stood; but
 what this had to do with Chantilly I could not possibly understand.
 
-There was not a particle of _charlâtanerie_ about Dupin. "I will
+There was not a particle of _charlatanerie_ about Dupin. "I will
 explain," he said, "and that you may comprehend all clearly, we will
 first retrace the course of your meditations, from the moment in which
 I spoke to you until that of the _rencontre_ with the fruiterer in
@@ -5100,7 +5100,7 @@ described them yesterday.
 
 "_Henri Duval_, a neighbor, and by trade a silver-smith, deposes that
 he was one of the party who first entered the house. Corroborates the
-testimony of Musèt in general. As soon as they forced an entrance, they
+testimony of Muset in general. As soon as they forced an entrance, they
 reclosed the door, to keep out the crowd, which collected very fast,
 notwithstanding the lateness of the hour. The shrill voice, this witness
 thinks, was that of an Italian. Was certain it was not French. Could not
@@ -5312,7 +5312,7 @@ dark, when we took our departure. On our way home my companion stepped
 in for a moment at the office of one of the daily papers.
 
 I have said that the whims of my friend were manifold, and that _Je les
-ménagais_:--for this phrase there is no English equivalent. It was his
+ménageais_:--for this phrase there is no English equivalent. It was his
 humor, now, to decline all conversation on the subject of the murder,
 until about noon the next day. He then asked me, suddenly, if I had
 observed any thing _peculiar_ at the scene of the atrocity.
@@ -5476,7 +5476,7 @@ nails and open the windows.
 reason I have just given--because here it was, I knew, that all apparent
 impossibilities _must_ be proved to be not such in reality.
 
-"I proceeded to think thus--_à posteriori_. The murderers did escape
+"I proceeded to think thus--_a posteriori_. The murderers did escape
 from one of these windows. This being so, they could not have refastened
 the sashes from the inside, as they were found fastened;--the
 consideration which put a stop, through its obviousness, to the scrutiny
@@ -6314,7 +6314,7 @@ thrown into the water immediately after death by violence, require from
 six to ten days for decomposition to take place to bring them to the top
 of the water. Even where a cannon is fired over a corpse, and it rises
 before at least five or six days' immersion, it sinks again, if let
-alone. Now, we ask, what was there in this cave to cause a departure
+alone. Now, we ask, what was there in this case to cause a departure
 from the ordinary course of nature?... If the body had been kept in its
 mangled state on shore until Tuesday night, some trace would be found on
 shore of the murderers. It is a doubtful point, also, whether the body
@@ -8871,7 +8871,7 @@ End of Project Gutenberg's The Works of Edgar Allan Poe, by Edgar Allan Poe
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/2/1/4/2147/
 
-Produced by David Widger
+Produced by David Widger and Carlo Traverso
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
